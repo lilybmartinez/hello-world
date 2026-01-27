@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <meta charset="UTF-8">
+        <title>Hello Button Page</title>
+    </head>
+
+    <body>
+        <h1>Hello World!</h1>
+        <p>How are you today?</p>
+
+        <h2>My Image</h2>
+
+        <img src="photo.jpg" alt="My image" width="300">
+        
+    </body>
+</HTML>
